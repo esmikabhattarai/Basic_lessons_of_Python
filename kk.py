@@ -8,7 +8,7 @@ k = 22
 l = 33
 c = k + l 
 print(c)
-print('HELLO ASSHOLE')
+print('HELLO')
 a = 77
 b = 666
 print(a + b)
